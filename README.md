@@ -11,3 +11,5 @@ y utilizando las propiedades de css :
 * right
 * border
 * entre otras
+
+https://jessicaherivera.github.io/ejercicio/
